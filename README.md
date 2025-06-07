@@ -1,2 +1,2 @@
 # sk-rookies26-0605-re
-git, github 복
+git, github 복습
